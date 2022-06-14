@@ -1,3 +1,11 @@
-HELLO Everyone ,<br>
+# PORTFOLIO
+Hello Everyone ,<br>
 My name is Himanshu ,<br>
-This is my personal website
+This is my personal website 
+
+## CONTRIBUTE
+* clone the repository
+* Explore the project 
+* find the bug
+* fix the bug
+* send a Pull request 
