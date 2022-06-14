@@ -7,5 +7,5 @@ This is my personal website
 * clone the repository
 * Explore the project 
 * find the bug
-* fix the bug
-* send a Pull request 
+* fix the Bug
+* send a Pull request
