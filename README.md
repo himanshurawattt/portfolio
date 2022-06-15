@@ -3,7 +3,7 @@ Hello Everyone ,<br>
 My name is Himanshu ,<br>
 This is my personal website 
 
-## CONTRIBUTE
+## CONTRIBUTE STEPS
 * clone the repository
 * Explore the project 
 * find the bug
